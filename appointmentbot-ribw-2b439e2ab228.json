@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "appointmentbot-ribw",
+  "private_key_id": "2b439e2ab228d06bb8fd3c7932af164166ee9c4e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCn+FlcwcY4Uq46\nsIn1cbnGIC+sxSixY/Sjo5017pqqEgSyZjccDuGmYz9xVeGm3KfajBMSq304gTkc\nyadG2s3Ue24ETb31hHL0ZQo2fyRIxZQiDdU7LEHvSHBkXAr+2IPYrtBKJFbEuAwF\n+28xkuBNiXT5HMZPgtgtL/Eg8lViVsJ3TPYlILLqh4IpMssSnHAgw3gZnZzI/JIf\n3c8kBl+M0IFdmE2Uenee4wpQI+mFN7S3bTRCtbndXDhNfozfAze3dM1Xm1WsoDDR\nIz+9eozu2aQ2t46TyHryHqUC9ahgDWtXzd1JzWwu46yxr36oK0erXZwom+w/Iv6V\nbwqTnQ3pAgMBAAECggEAHYLuXHQ1Oe8Y6nna+1M8YxmDltTbFfOsZ1XXSML/zJK2\n3YtE8nqQ3dWBL435xAHvwd+reDPGH/fgS3UInVPTJxp6lWn9TpYzRko8VZ/YBasl\nICiTBr77ZKmzCYb8bZMn8xmfwe8Jia2WezSWcDzQiP72HNCX7R9dkO7j7Dh3lPvF\nR3sD1ffXUg4Dei7IThT84rMikxUk38OaRxnSljGT0EFuZmR26VTV/G5WY/cr3XNn\npCAvf8AeMN0sgfyYUfOjv5gHee9GKK/0tqD1uYszm+/vMDCTTVj6rbfY3Go9eyNx\nm4MwpySaLmmOkwAtdl6KqYITP9CAEcwcWlF4uqopcwKBgQDe4WWwtxRgRazFk2Jh\nWazlzUU0gXK1sACNCV0Lt7mGC/rTGy637qMycAayk4xaoloU5L9NzaYFe8DdXDH2\n6zTvsG+NgBulkkudamIko2A5sTqY/7TGq9x094aqgmRMqV+lzKatZIaehOQQVyhI\n9dTmOBEo0fLt1sawLRgQh0hb9wKBgQDA7hsLYVxBK9hEonsme3G8jpwgtMxyjhuI\ns6dPmcjxKad/6Gq74bg0M8ziPZMPTONbu/YQs3o5M12Vi3WZODS8p9uYN9bWqqQj\nYR1MLk2Rhd2rwWSu8K/CuzUQGHiun16M82sggMoi+3RM01MeeTAVeswET2gcHX+k\nXH5ZnOytHwKBgH9ike1jZij0CaBO8W60g0ZAgSpWRgqj0lzJmj2FP2rm0+/uXFBR\n+0JrlthfzltK6XOBnflI7Xe62GtsMz5uBi5sSAW2z5ZdPAx3biqEmg2/Rr+FfnwC\nZBkSFAzGQ68xKvKnOihmCS72wya3udWhc5I1P1F2VYMsOxkcXOGtgGTXAoGAVD8l\nXCDVsje9Jqt072b0UYxMrROGO3fGmjkpFF9pGbZAyF/rS8PTNihwjVKqBwJiPcqk\nNsLI2nWNpiHR5mhezwrVn3CyxeaZ6kEcFAocITG9jKTUnHfJqFUrZK3q9QXuucoJ\nu5XBrujy7iFRqHru/lIzCKbMJYrUFCe3nNYjm60CgYBwlV9saZzicOdX5M3Ratuz\nCDfnj4u/CQC9oB+fx+0svz2SMeosuFJcOmKzhNAA1NpH0oIlLEpEw5loJu8GMpR9\nWb4wKdXGdRkfAtyavs6sq52rLIBqEHPZWOjcZnVfBmykpbugbQbsz8yIl4ZJ42w+\nKjNeZDQFoNY3G6KVgtAeUw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "appointmentbot@appointmentbot-ribw.iam.gserviceaccount.com",
+  "client_id": "103903269606130400366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/appointmentbot%40appointmentbot-ribw.iam.gserviceaccount.com"
+}
